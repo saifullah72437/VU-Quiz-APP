@@ -1,6 +1,10 @@
 # VU-Quiz-APP
 Vu Quiz App is a Quiz App For Computer Science, Information Technology and Software Engineering Students.
 
+## Playstore Link
+
+https://play.google.com/store/apps/details?id=com.saif.vuquizapp
+
 ## Screen Shot 1
 ![1](https://github.com/saifullah72437/VU-Quiz-APP/assets/73275780/c594a68e-13df-488b-ba37-3d760de035ae)
 
